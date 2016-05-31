@@ -1,7 +1,6 @@
 {
-  "name": "weather-app",
+  "name": "to-do",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "prompt": "^1.0.0"
@@ -23,5 +22,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amberelle/template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amberelle/template/issues"
+  },
+  "homepage": "https://github.com/amberelle/template#readme",
+  "description": ""
 }
